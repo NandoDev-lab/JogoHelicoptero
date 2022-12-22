@@ -1,7 +1,7 @@
 
 @font-face{
 	font-family:Titulo;
-	src:url(jogo1\fontes\ANODETONOONE.TTF);
+	src:url(../jogo1/fontes/ANODETONOONE.TTF);
 }
 
 h1 {
